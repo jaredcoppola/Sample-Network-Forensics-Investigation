@@ -1,9 +1,9 @@
-# Sample-Network-Forensics-Investigation
+# Practice-Network-Forensics-Investigation
 Company Name and Pcap files were created for the sole purpose of practicing network forensics and should not be taken as legitimate data.
 
 (I wish I still had the Pcap files to upload, unfortunatly I lost the files when I wiped my computer earlier this year.)
 
-<h1>Sample Network Forensics Investigation</h1>
+<h1>Practice Network Forensics Investigation</h1>
 
 ## Description
 Project consists of analysis of sample pcap files that walks the user through the thought process and analysis of a ficticious company, FABCO. The project is written in the format of a real network forensic report.
